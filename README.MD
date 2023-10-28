@@ -23,11 +23,11 @@ The application utilizes rate limiting to prevent abuse of the APIs. Requests ar
 
 ### Helmet
 
-[Helmet](https://www.npmjs.com/package/helmet) helps secure your Express application by setting various HTTP headers. It enhances security by adding important security-related headers to HTTP responses.
+[Helmet](https://www.npmjs.com/package/helmet) helps secure the application by setting various HTTP headers. It enhances security by adding important security-related headers to HTTP responses.
 
 ### CORS
 
-[CORS](https://www.npmjs.com/package/cors) is configured to enable Cross-Origin Resource Sharing, ensuring that your API can be accessed from different origins.
+[CORS](https://www.npmjs.com/package/cors) is configured to enable Cross-Origin Resource Sharing, ensuring that the API can be accessed from different origins.
 
 ### Error Handling
 
