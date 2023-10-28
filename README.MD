@@ -13,7 +13,7 @@ This Express.js application provides user authentication and job management via 
 
 ## Introduction
 
-This Express.js application serves as a foundation for building web applications with user authentication and job-related functionality. It includes various security measures and common middleware to ensure a robust and secure application.
+The Job Application Management API simplifies the process of managing job applications. It offers a range of features to help users efficiently track, create, update, and delete job applications, enhancing their job search experience. This API is built on top of the Express.js framework and can be integrated into various applications or services.
 
 ## Middleware
 
